@@ -15,3 +15,14 @@ Experiencia Laboral:
 
 Certificaciones AOS:
 
+* IBM DataPower Gateway 7.6:
+
+![certificado Data Power](/img/DataPower.jpg)
+
+* App Connect Enterprise 12:
+
+![certificado Toolkit](/img/AppConnect12.jpg)
+
+* API Connect 10:
+
+![certificado Api Connect](/img/ApiConnect10.jpg)
